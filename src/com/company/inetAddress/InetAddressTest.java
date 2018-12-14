@@ -1,4 +1,4 @@
-package com.company.inetAddress;
+//package com.company.inetAddress;
 
 import java.io.*;
 import java.net.*;
