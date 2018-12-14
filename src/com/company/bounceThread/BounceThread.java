@@ -63,7 +63,7 @@ class BounceFrame extends JFrame
     public void addBall()
     {
         Ball ball = new Ball();
-//        comp.add(ball);
+        comp.add(ball);
         Runnable r = () -> {
             try
             {

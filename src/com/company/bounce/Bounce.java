@@ -71,7 +71,7 @@ class BounceFrame extends JFrame
             }
         }catch (InterruptedException e)
         {
-
+//            System.out.println(e);
         }
     }
 }

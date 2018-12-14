@@ -1,7 +1,5 @@
 package com.company.bounceThread;
 
-import com.company.bounce.Ball;
-
 import javax.swing.*;
 import java.awt.*;
 import java.util.ArrayList;
